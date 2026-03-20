@@ -1,7 +1,7 @@
 # Trabalho-de-Matematica-Financeira-2024.1
 Trabalho feito na disciplina de Matemática Financeira na UFRJ em 2024.1
 
-Professora Rafael Souza dos Santos
+Professor Rafael Souza dos Santos
 
 Grupo: João Pedro Lima Bittencourt Silva, Rhana Gomes de Santana Santos, Stefane Moraes Castoldi
 
